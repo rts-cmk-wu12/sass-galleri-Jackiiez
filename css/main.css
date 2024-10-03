@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+nav {
+  display: grid;
+}
+
+ul {
+  width: 40%;
+  list-style: none;
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.list__item {
+  margin-left: 40%;
+}/*# sourceMappingURL=main.css.map */
